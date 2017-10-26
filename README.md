@@ -1,9 +1,9 @@
-#Bring culture to tech
+# Bring culture to tech
 
-#Quick Notes
-##Image Recognition
-##Natural Language
-###POS tag list:
+# Quick Notes
+## Image Recognition
+## Natural Language
+### POS tag list:
 ```
 CC	 coordinating conjunction
 CD 	cardinal digit
@@ -42,7 +42,7 @@ WP$ 	possessive wh-pronoun	whose
 WRB 	wh-abverb	where, when
 ```
 
-###NE Type and Examples
+### NE Type and Examples
 ```
 ORGANIZATION - Georgia-Pacific Corp., WHO
 PERSON - Eddy Bonte, President Obama
